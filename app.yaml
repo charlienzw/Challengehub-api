@@ -1,0 +1,4 @@
+runtime: nodejs10
+
+env_variables:
+    DATABASEURL: 'mongodb://admin:challengehub100@ds057862.mlab.com:57862/challengehub_db'
